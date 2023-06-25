@@ -1,4 +1,5 @@
 # Power-BI-Projects
+This repository is to show my Power BI dashboard skills.
 
   ### List of Projects
   
